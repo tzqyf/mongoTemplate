@@ -1,0 +1,7 @@
+#使用mongoTemplate自动配置
+#spring:
+#  data:
+#    mongodb:
+#      uri:  mongodb://test:test@localhost:27017/foo
+server:
+  port: 8080
